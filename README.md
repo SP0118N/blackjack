@@ -1,3 +1,8 @@
 # blackjack
 Practice project based on BlackJack
-*** You see no cards here ***
+
+Project Team
+* Owen (owner)
+* Alice (collaborator)
+* Bod (collaborator)
+
