@@ -1,5 +1,5 @@
 package com.game.blackjack;
 
-class Dealer extends Player{
+public class Dealer extends Player{
 
 }
